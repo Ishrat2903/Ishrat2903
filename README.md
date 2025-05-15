@@ -1,5 +1,5 @@
 # Hello, I'm Ishrat Shaikh 👋
-### 📚 Studying BSc. Data Science, AI and Digital Business 🌟
+### I am a Data Scientist 🌟
 
 Welcome to my GitHub repository! I'm passionate about the exciting world of data science, artificial intelligence, and digital business. As a dedicated learner in these fields, I'm constantly exploring new ideas, solving challenges, and building innovative projects to make meaningful contributions to the tech community.
 
